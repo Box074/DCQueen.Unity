@@ -1,0 +1,146 @@
+ManifestFileVersion: 0
+CRC: 2876354263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebfd664a2f84bb0c022e8bf696620890
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fbcfbc2c3780ec8c3a5252d5d394de37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef21613fb1e43384ea47d2b1e34d7653, type: 3}
+- Class: 114
+  Script: {fileID: -311697870, guid: f93afa87493baf14bb3a348383c4cc82, type: 3}
+- Class: 114
+  Script: {fileID: -1992217222, guid: f93afa87493baf14bb3a348383c4cc82, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a41698c99b243c7458d8f215fa051491, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 933bda86014ce7549af3f5dc67b8d675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b15c140d841f5b4288ca8bf1f22df51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 993b45a54196c13449fdbfb80accc828, type: 3}
+- Class: 114
+  Script: {fileID: -463996770, guid: db5e18c3e640e474e873cdfb6ee831c7, type: 3}
+- Class: 114
+  Script: {fileID: -2035162489, guid: db5e18c3e640e474e873cdfb6ee831c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4284905056a1f746b326869df74eb79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2da1deca72d3194cb6e92de5486d021, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 820f58faea6727a47b6bb647eb26131a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3be3d2f01776984596c343696f3769a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/enm_queen_vocal6.wav
+- Assets/Texture2D/Head.png
+- Assets/LightHouse/QA_rempart1_2-=-0-=-_n.png
+- Assets/Audio/enm_queen_vocal5.wav
+- Assets/Audio/enm_queen_vocal4.wav
+- Assets/Queen_default_s.png
+- Assets/Audio/enm_queen_vocal7.wav
+- Assets/QueenBoss.prefab
+- Assets/Texture2D/Queen.spriteatlas
+- Assets/Audio/enm_queen_vocal3.wav
+- Assets/Audio/enm_queen_vocal1.wav
+- Assets/CutSpaceEffectMat.mat
+- Assets/LightHouse/LHMat.mat
+- Assets/Audio/weapon_shield_block.wav
+- Assets/CutPrefabHero.prefab
+- Assets/HKTool/FakeScriptData/HealthManager.asset
+- Assets/Queen_tracks.json
+- Assets/Audio/enm_queen_ccq_release3.wav
+- Assets/QueenIcon.png
+- Assets/Audio/enm_queen_firewave_release.wav
+- Assets/FireFlame.prefab
+- Assets/Audio/enm_queen_grab_hit.wav
+- Assets/LightHouse/lightHouse.fbx
+- Assets/Audio/enm_queen_dispel_aoe_release.wav
+- Assets/Audio/enm_queen_parry_hit.wav
+- Assets/Audio/enm_queen_dodge.wav
+- Assets/Audio/enm_queen_vocal8.wav
+- Assets/Audio/enm_queen_ccs_release1.wav
+- Assets/Audio/enm_queen_swap.wav
+- Assets/QueenScene.prefab
+- Assets/AutoDestroy.prefab
+- Assets/Texture2D/QueenScene.spriteatlas
+- Assets/HKTool/FakeScriptData/NonBouncer.asset
+- Assets/Audio/enm_queen_split_charge.wav
+- Assets/Audio/enm_queen_cutscene1.wav
+- Assets/Audio/enm_queen_ccq_release2.wav
+- Assets/Window.prefab
+- Assets/Audio/enm_queen_lunge_release.wav
+- Assets/cutSpaceTex.png
+- Assets/Audio/enm_queen_vocal10.wav
+- Assets/Audio/enm_queen_split_release.wav
+- Assets/Audio/enm_queen_lunge_charge.wav
+- Assets/Audio/enm_queen_grab_charge.wav
+- Assets/Audio/enm_queen_split_anim.wav
+- Assets/Audio/enm_queen_ccq_release1.wav
+- Assets/Audio/enm_queen_vocal9.wav
+- Assets/CutPrefab.prefab
+- Assets/Audio/enm_queen_cutscene2.wav
+- Assets/CutSpaceEffect.shader
+- Assets/Audio/enm_queen_grab_release.wav
+- Assets/Audio/weapon_shield_charge.wav
+- Assets/Audio/enm_queen_ccso_release.wav
+- Assets/Audio/enm_queen_disable_grenade_release.wav
+- Assets/Audio/enm_queen_shockwave_charge.wav
+- Assets/Texture2D/fxQueen.spriteatlas
+- Assets/QueenMat.mat
+- Assets/Audio/enm_queen_killpet_release.wav
+- Assets/CutSpaceSword.prefab
+- Assets/Audio/enm_queen_vocal2.wav
+- Assets/Audio/enm_queen_shockwave_release.wav
+- Assets/Queen.shader
+- Assets/Audio/queen_loop.ogg
+- Assets/Audio/enm_queen_charge1.wav
+- Assets/Audio/enm_queen_cutscene3.wav
+- Assets/HKTool/FakeScriptData/DamageHero.asset
+- Assets/Audio/enm_queen_grab_voiceless.wav
+Dependencies: []
